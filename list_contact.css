@@ -1,0 +1,47 @@
+body{
+  background-color: whitesmoke;
+}
+div>ul>li {
+  float:left;
+}
+
+div>form>p {
+  background: nd-color: whitesmoke;
+
+}
+div>ul>li {
+  float: left;
+}
+div>ul>li a {
+  color: #000000;
+display: block;
+  padding: 15px 67.19px;
+  text-decoration: none;
+  background-color: whitesmoke;
+
+}
+#ka {
+  position: absolute;
+  top: 350px;
+  left: 400px;
+
+  text-align: center;
+  width: 50%
+}
+#kok {
+  position: absolute;
+  top: 630px;
+  left:500px;
+}
+#coc {
+  position: absolute;
+  top: 710px;
+}
+#dikosmu {
+  position: absolute;
+  top: 540px;
+  left: 400px;
+}
+
+#ddd {
+  float: left;}
