@@ -1,0 +1,57 @@
+body{
+  background-color: whitesmoke;
+}
+div>ul>li {
+  float:left;
+}
+
+div>form>p {
+  background: nd-color: whitesmoke;
+
+}
+div>ul>li {
+  float: left;
+}
+div>ul>li a {
+  color: #000000;
+display: block;
+  padding: 15px 67.19px;
+  text-decoration: none;
+  background-color: whitesmoke;
+
+}
+#ka {
+  position: absolute;
+  top: 350px;
+  left: 400px;
+
+  text-align: center;
+  width: 50%
+}
+#kok {
+  position: absolute;
+  top: 7750px;
+}
+#coc {
+  position: absolute;
+  top: 7830px;
+}
+#dikosmu {
+  position: absolute;
+  top: 540px;
+  left: 400px;
+}
+#marvellogo {
+  float: left;
+  position: absolute;
+  top: -70px;
+  left: -330px;
+}
+#captainamericalogo {
+  position: absolute;
+  top: -60px;
+  left: 350px;
+}
+#RO {
+  float: left;
+}
